@@ -2,8 +2,12 @@
 
 How to create and deploy arbitrary bot for crypto trading
 
+Refer to codes file for the source code of arbitrary bot.
+
 A DeFi-Dapp can be created for this bot using oneclickdapp 
 Refer to this link to build ur own DeFi-Dapp
+
+https://github.com/lalanaN202/DeFI-Dapp
 
 The bitcoin value keeps varying through each exchange or trading. BOT stands balance of trade they are used to maintain the balance of export and import values in a given period of time. So as to keep the difference negligible 
 
